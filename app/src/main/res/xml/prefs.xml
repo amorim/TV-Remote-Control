@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" xmlns:asp="http://schemas.android.com/apk/res-auto">
+
+    <EditTextPreference
+        android:key="pref_server"
+        android:title="Servidor"
+        android:summary="Especificar o servidor e porta a ser usado" />
+
+</PreferenceScreen>

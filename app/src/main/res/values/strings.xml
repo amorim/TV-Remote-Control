@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Remote Controller</string>
+    <string name="title_activity_settings">Config</string>
+
+</resources>
